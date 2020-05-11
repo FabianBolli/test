@@ -1,0 +1,2 @@
+def fun(input):
+	return print(input)
